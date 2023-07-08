@@ -31,3 +31,4 @@ build/
 /compressImg/**
 ### VS Code ###
 .vscode/
+application-dev.yaml

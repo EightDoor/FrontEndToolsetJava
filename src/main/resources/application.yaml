@@ -2,10 +2,6 @@ server:
   port: 8085
   servlet:
     context-path: /api
-
-personalkit:
-  # ??????api??
-  baiduTranslationUrl: "http://api.fanyi.baidu.com/api/trans/vip/translate"
 spring:
   profiles:
     active: dev
