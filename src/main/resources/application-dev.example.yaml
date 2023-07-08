@@ -1,2 +1,11 @@
-# 压缩图片保存路径
-compressPath: /Users/zhoukai/project/my-project/personalKit/compressImg
+personalkit:
+  # 压缩图片保存路径
+  compressPath: /Users/zhoukai/project/my-project/personalKit/compressImg
+  # 百度翻译api地址
+  baiduTranslationUrl: "http://api.fanyi.baidu.com/api/trans/vip/translate"
+  # 百度appId
+  appId:
+  # 百度appKey
+  appKey:
+  # 高德key
+  gaoDeKey:
